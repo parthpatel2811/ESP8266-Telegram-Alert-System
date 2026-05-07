@@ -66,3 +66,4 @@ Example:
 🚨 Obstacle Detected!
 Distance: 8.5 cm
 Status: 1
+```
