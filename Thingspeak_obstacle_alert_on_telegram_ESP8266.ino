@@ -7,17 +7,17 @@
 #define TriggerPin D2
 #define alertPin D1
 
-const char* ssid = "Shubham parth";
-const char* password = "Bssp@082827";
+const char* ssid = "YOUR_WIFI_NAME";
+const char* password = "YOUR_WIFI_PASSWORD";
 
-const char* botToken = "8469338799:AAH9W9BRaUGCWeU0IdxZ3lvaMPT2BIkg5e8";
-const char* chatID   = "5889537133";
+const char* botToken = "xxxxxxxxxxxxxxxxxxxx";  // Your telegram bot token 
+const char* chatID   = "xxxxxxxx";  // Your chat ID
 
 WiFiClient  client;
 WiFiClientSecure tgClient;
 
-unsigned long myChannelNumber = 3350941;
-const char * myWriteAPIKey = "P84FJ1PW7M04EK1A";
+unsigned long myChannelNumber = xxxxxx;  //Your ThingSpeak channel number
+const char * myWriteAPIKey = "YOUR_THINGSPEAK_writeAPI_key";
 
 void setup() {
   // put your setup code here, to run once:
