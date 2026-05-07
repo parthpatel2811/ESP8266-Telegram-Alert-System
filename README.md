@@ -39,18 +39,6 @@ The ultrasonic sensor continuously measures the distance of nearby objects.
 - Breadboard
 
 ---
-
-## 🔌 Circuit Connections
-
-| Ultrasonic Sensor | ESP8266 |
-|------------------|----------|
-| VCC | 3.3V |
-| GND | GND |
-| TRIG | D2 |
-| ECHO | D3 |
-| LED/Buzzer | D1 |
-
----
 ## 🔌 Circuit Diagram
 ![Circuit Diagram](Circuit_Diagram.png)
 ---
