@@ -67,3 +67,9 @@ Example:
 Distance: 8.5 cm
 Status: 1
 ```
+---
+## 🎥 Demo Video
+[▶️ Watch Demo Video](https://youtu.be/xKgFostUFXQ)
+
+## Ardiuno Code 
+
