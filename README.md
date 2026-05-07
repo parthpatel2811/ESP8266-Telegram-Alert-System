@@ -71,5 +71,5 @@ Status: 1
 ## 🎥 Demo Video
 [▶️ Watch Demo Video](https://youtu.be/xKgFostUFXQ)
 
-## Ardiuno Code 
-
+## 📂 Code
+Arduino code is included in this repository. Open Obstacle_alert_on_telegram_ESP8266.ino file
