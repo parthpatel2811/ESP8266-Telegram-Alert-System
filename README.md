@@ -52,7 +52,7 @@ The ultrasonic sensor continuously measures the distance of nearby objects.
 
 ---
 ## 🔌 Circuit Diagram
-
+![Circuit Diagram](Circuit_Diagram.png)
 ---
 ## 📲 Telegram Alert System
 The ESP8266 connects to the Telegram Bot API using HTTPS requests.
